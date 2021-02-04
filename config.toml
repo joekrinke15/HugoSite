@@ -6,4 +6,4 @@ theme = "ananke"
 [[deployment.targets]]
 # An arbitrary name for this target.
 name = "awsbucket"
-URL = "s3://joekrinkehugosite/?region=us-east-1" #your bucket herels
+URL = "s3://joekrinkehugosite/?region=us-east-1" #your bucket herel
